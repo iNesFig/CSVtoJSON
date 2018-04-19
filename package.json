@@ -1,0 +1,16 @@
+{
+  "name": "CSVtoJSON",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convCSVtoJSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "json-file": "^0.1.0"
+  }
+}
